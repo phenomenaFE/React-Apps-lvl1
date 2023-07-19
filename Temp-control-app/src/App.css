@@ -1,0 +1,47 @@
+.mt-4 {
+  padding-top: 3rem;
+}
+
+.button-tem {
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
+
+  padding: 15px;
+}
+
+.temp-bg {
+  width: 300px;
+  height: 300px;
+  padding: 30px;
+  border-radius: 20px;
+  background-color: blanchedalmond;
+  margin: auto;
+
+}
+
+.temp-weather {
+  width: 100px;
+  height: 100px;
+  margin: auto;
+  border-radius: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+
+}
+
+.sun-appear {
+  background-color: yellow;
+}
+
+.snow-appear {
+  background-color: snow;
+}
+
+.btn-group {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
